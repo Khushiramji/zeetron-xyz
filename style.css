@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+   
+}
+
+
+.apply_box{
+    max-width: 800px;
+    padding: 20px;
+    background-color: wheat;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 15px; 
+}
+.first_name{
+    font-size: 20px;
+    padding: 20px;
+    font-weight: 500;
+    float: left;
+}
+#first{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 13px;
+
+}
+
+.last_name{
+    font-size: 20px;
+    padding: 20px;
+    font-weight: 500;
+    margin-left: 400px;
+    display: block;
+}
+#last{
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 13px;
+    
+
+}
+
+.nd{
+    font-size: 20px;
+    padding: 20px;
+    font-weight: 500;
+    margin-left: 400px;
+    margin-top: 20px;
+
+}
